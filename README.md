@@ -186,8 +186,9 @@ int a, b, c;
 4. Masukan program/data dari praktikum sebelumnya kedalam satu file yang berbeda untuk file header fungsi
 
 **kode lengkap program**
-C++
+
 **file header**
+
 ```
 #ifndef FUNGSI1_H_INCLUDED
 #define FUNGSI1_H_INCLUDED
@@ -356,6 +357,7 @@ void Program_kasir(){
 ```
 
 **File yang memanggil fungsi**
+
 ```
 #include<iostream>
 #include"fungsi1.h"
