@@ -4,7 +4,7 @@
 
 **alur algoritma**
 1. Mulai program fungsi sederhana dengan menggunakan void
-2. Deklarasikan fungsi menggunakan void dengan nama fungsi yang ingin kita masukan ( void ganjilgenap();)
+2. Deklarasikan fungsi menggunakan void dengan nama fungsi yang ingin kita masukan ( void ganjilgenap())
 3. Masukan rumus yang ingin kita jadikan fungsi sederhana
 
 **kode lengkap program**
@@ -46,8 +46,10 @@ void ganjilgenap(){
 **alur algoritma**
 1. Mulai program fungsi dengan menggunakan void
 2. Deklarasiakan praktikum yang ingin kita jadikan kumpulan fungsi di nama fungsi setelah type data 
+
 	`void terbesar();
 	 void urut_data();`
+	 
 3. Gunakan rumus do while untuk mengulang swicth dan case untuk memilih program pada saat di jalankan
 4. Masukan program/data dari praktikum sebelumnya kedalam satu file fungsi
 
@@ -178,13 +180,13 @@ int a, b, c;
 **alur algoritma**
 
 1. Mulai program fungsi dengan menggunakan header untuk memanggil fungsi
-2. Deklarasiakan fungsi yang terdapat dalam file berbeda praktikum yang ingin kita jadikan kumpulan fungsi untuk membuat header untuk di panggil dalam file lain
+2. Deklarasiakan fungsi yang terdapat dalam file berbeda praktikum yang ingin kita jadikan kumpulan fungsi 
+   untuk membuat header untuk di panggil dalam file lain
 3. Gunakan rumus do while untuk mengulang swicth dan case untuk memilih program pada saat di jalankan
 4. Masukan program/data dari praktikum sebelumnya kedalam satu file yang berbeda untuk file header fungsi
 
 **kode lengkap program**
 C++
-
 **file header**
 ```
 #ifndef FUNGSI1_H_INCLUDED
